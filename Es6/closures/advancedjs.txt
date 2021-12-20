@@ -1,0 +1,24 @@
+1.closures--A function that rembers variable in its outer environment.In javascript all functions are closures
+2. Recursion
+3. Pass by value and by reference
+4. Hoisting
+5. The new function---it is rarely used. Help pass any string to a function
+6. Inheritance and prototype chaining
+8. Higher order functions
+9. Error handling
+10. Memory leaks
+11. Type coercion
+12. Arrow functions. ---> Arrow functions are anonymous and change how this binds in functions.It makes our code more conciswe and simplifies function scoping and this keyword
+13. Function scopingBlock scoping
+14. Garbage collection
+15. apply(), bind(), call()
+16. `this` keyword
+17. Asynchronous javascript and event loop
+18. Object oriented programming
+19. scope and context execution
+20. Interpreter/compiler/jit compiler
+21. Javascript Engine and Runtime
+22. Function programming
+23. Javascript modules
+24. Javascript best practices
+25. Spreadoperator
